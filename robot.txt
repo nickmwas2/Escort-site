@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://github.com/nickmwas2/Escort-site/blob/main/sitemap.xml
